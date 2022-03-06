@@ -1,0 +1,9 @@
+server:
+  address: ":8100"
+
+database:
+  server: "127.0.0.1"
+  port: 3306
+  db: "test"
+  user: "test"
+  pass: "test"
