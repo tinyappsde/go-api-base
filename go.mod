@@ -5,6 +5,11 @@ go 1.17
 require github.com/gin-gonic/gin v1.7.7
 
 require (
+	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
+	gopkg.in/guregu/null.v3 v3.5.0 // indirect
+)
+
+require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-playground/locales v0.13.0 // indirect
 	github.com/go-playground/universal-translator v0.17.0 // indirect
